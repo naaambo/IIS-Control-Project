@@ -1,0 +1,8 @@
+c:\users\developer\documents\visual studio 2012\Projects\IIS Control\IIS Control\bin\Debug\IIS Control.exe.config
+D:\GitHub\IIS-Control-Project\IIS Control\bin\Debug\IIS Control.exe.config
+D:\GitHub\IIS-Control-Project\IIS Control\obj\Debug\IIS Control.csprojResolveAssemblyReference.cache
+D:\GitHub\IIS-Control-Project\IIS Control\bin\Debug\IIS Control.exe
+D:\GitHub\IIS-Control-Project\IIS Control\bin\Debug\IIS Control.pdb
+D:\GitHub\IIS-Control-Project\IIS Control\bin\Debug\Microsoft.Web.Administration.dll
+D:\GitHub\IIS-Control-Project\IIS Control\obj\Debug\IIS Control.exe
+D:\GitHub\IIS-Control-Project\IIS Control\obj\Debug\IIS Control.pdb
